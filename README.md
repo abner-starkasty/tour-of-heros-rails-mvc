@@ -29,8 +29,8 @@ Esse repositório faz parte do [Curso de Ruby on Rails 6 como API](https://www.y
 
 ```bash
 # clonar o projeto
-git clone https://github.com/abner-starkasty/tour_of_heros_rails_mvc.git
-cd tour_of_heros_rails_mvc
+git clone https://github.com/abner-starkasty/tour_of_heroes_rails_mvc.git
+cd tour_of_heroes_rails_mvc
 
 # instalar as dependências do Ruby on Rails
 bundle install
